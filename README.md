@@ -34,22 +34,7 @@ wikipedia for retrieving information from Wikipedia.
 
 pyjokes for generating jokes.
 
-Setup Instructions
 
-Clone the repository:
-
-git clone https://github.com/yourusername/alexa-like-assistant.git
-cd alexa-like-assistant
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the application:
-
-python assistant.py
-
-Usage
 
 Run the script using Python.
 
